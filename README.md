@@ -58,5 +58,5 @@ Setting a New Price:
 Determine the new price.
 Update the price through the contract.
 
-License
+
 This project is licensed under the MIT License.
