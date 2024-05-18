@@ -59,4 +59,4 @@ Determine the new price.
 Update the price through the contract.
 
 
-This project is licensed under the MIT License.
+
